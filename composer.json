@@ -1,5 +1,5 @@
 {
-	"name": "natxet/cssmin",
+	"name": "adoramedia/cssmin",
 	"description": "Minifying CSS",
 	"type": "library",
 	"keywords": ["css","minify"],
@@ -10,6 +10,10 @@
 			"name": "Joe Scylla",
 			"email": "joe.scylla@gmail.com",
 			"homepage": "https://profiles.google.com/joe.scylla"
+		},
+		{
+         		"name": "David Moya de la Ossa",
+			"email": "david.moya@adoramedia.com"
 		}
 	],
 	"require": {
